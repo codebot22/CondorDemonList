@@ -1,6 +1,6 @@
 {
   "name": "condordemonlist",
   "compatability_date": "2025-04-09",
-  "main": "src/js/main.js"
+  "main": "src/main.js"
 }
   

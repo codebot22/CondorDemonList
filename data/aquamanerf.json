@@ -13,6 +13,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+       },
+        {
+            "user": "orgen",
+            "link": "",
+            "percent": 100,
+            "hz": 69
        }
     ]
 }

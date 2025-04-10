@@ -1,1 +1,24 @@
-
+{
+    "id": 112264565,
+    "name": "Shitty Coconut Cream",
+    "author": "JodyCondor",
+    "creators": ["Jodycondor"],
+    "verifier": "solal",
+    "verification": "https://youtu.be/v9PdXuhJ-AY",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+       {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}

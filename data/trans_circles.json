@@ -1,1 +1,30 @@
-
+{
+    "id": 100295810,
+    "name": "Trans Circles",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor", "Equallake"],
+    "verifier": "JodyCondor",
+    "verification": "https://www.youtube.com/watch?v=WrkIYGkW1-o",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+         {
+            "user": "solal",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Lily",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}

@@ -1,27 +1,18 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "List Owner",
+        "name": "JodyCondor",
+        "link": "https://www.youtube.com/@JodyCondor"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Admin",
+        "name": "Lily",
+        "link": "https://www.youtube.com/@codebotgaming2475"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Helper",
+        "name": "Inrusane",
+        "link": "https://www.youtube.com/@inrusane_n"
     },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+   
 ]

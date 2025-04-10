@@ -1,1 +1,20 @@
-
+{
+    "id": 93431017,
+    "name": "Headrush",
+    "author": "Equallake",
+    "creators": ["Equallake", "JodyCondor"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/1Jq0yqOuW_Y",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+     
+    ]
+}

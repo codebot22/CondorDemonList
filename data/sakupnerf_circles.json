@@ -3,12 +3,18 @@
     "name": "Sakupnerf Circles",
     "author": "JodyCondor",
     "creators": ["JodyCondor", "Nick24"],
-    "verifier": "JodyCondor",
+    "verifier": ["JodyCondor", "Equallake"],
     "verification": "https://youtu.be/ybJFa2GUGrE",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
-       
+     
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
         
     ]
 }

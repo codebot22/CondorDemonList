@@ -1,1 +1,20 @@
+{
+    "id": 91725530,
+    "name": "I Found You",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/EY3qSpmOQHA",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

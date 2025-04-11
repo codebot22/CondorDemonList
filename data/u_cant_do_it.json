@@ -3,11 +3,18 @@
     "name": "U Can't Do It",
     "author": "Equallake",
     "creators": ["Equallake"],
-    "verifier": "JodyCondor",
+    "verifier": "Equallake",
     "verification": "https://youtu.be/gQchK8qBAqk",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
         
     ]
 }

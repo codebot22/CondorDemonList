@@ -1,1 +1,20 @@
+{
+    "id": 91660585,
+    "name": "The Challenge Full",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/acuiwlRhovs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

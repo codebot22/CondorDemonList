@@ -1,1 +1,24 @@
-
+{
+    "id": 89885288,
+    "name": "LVL 4 Equallake",
+    "author": "JodyCondor",
+    "creators": ["Jodycondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/5tuO2QHHJR0",
+    "percentToQualify": 100,
+    "Difficulty": "3 stars",
+    "records": [
+       {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Code",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}

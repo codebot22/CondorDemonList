@@ -1,1 +1,27 @@
+{
+    "id": 115298928,
+    "name": "Miku",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor", "Nick24"],
+    "verifier": "Jodycondor",
+    "verification": "https://youtu.be/htPM06DjJYY",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+     
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

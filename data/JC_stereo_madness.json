@@ -1,1 +1,20 @@
+{
+    "id": 89761761,
+    "name": "JC Stereo Madness",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/vIM1xoX7Bkw?si=MXejG_QZ-SLcVQX6",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

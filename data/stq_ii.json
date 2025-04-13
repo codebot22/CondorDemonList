@@ -1,1 +1,20 @@
+{
+    "id": 91904643,
+    "name": "Slowly To Quickly II",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/hLJTFfUVYnM?si=7opX6y7P8THAWLoO",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

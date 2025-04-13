@@ -1,1 +1,20 @@
+{
+    "id": 92438556,
+    "name": "Ghost House",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/kHgJzuK2ur8",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

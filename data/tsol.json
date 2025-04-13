@@ -1,1 +1,20 @@
+{
+    "id": 94454989,
+    "name": "The Speed of Light",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/41aPXXy440Q",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

@@ -1,1 +1,20 @@
+{
+    "id": 92169156,
+    "name": "Amp It Up",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/PQvjmLXP9cc?si=pUYplNoC8qQEG3ed",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

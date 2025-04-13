@@ -1,1 +1,24 @@
-
+{
+    "id": 94024300,
+    "name": "LVL 4 isyamo",
+    "author": "JodyCondor",
+    "creators": ["Jodycondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/9oAzs15NFs8",
+    "percentToQualify": 100,
+    "Difficulty": "Insane Demon",
+    "records": [
+       {
+            "user": "isyamo",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}

@@ -1,1 +1,20 @@
+{
+    "id": 97043120,
+    "name": "Idole",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/b5Kf7HIow2s",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

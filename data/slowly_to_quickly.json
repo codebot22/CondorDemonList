@@ -1,1 +1,20 @@
+{
+    "id": 90109545,
+    "name": "Slowly to Quickly",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/6tgLwopQHgE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

@@ -1,1 +1,27 @@
+{
+    "id": 88615162,
+    "name": "Study",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "Jodycondor",
+    "verification": "https://youtu.be/htPM06DjJYY",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+     
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

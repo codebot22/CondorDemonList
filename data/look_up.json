@@ -1,1 +1,20 @@
+{
+    "id": 91451115,
+    "name": "Look Up Layout",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/LNHl36IHJjQ",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

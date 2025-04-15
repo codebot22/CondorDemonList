@@ -100,7 +100,8 @@ export default {
                     </template>
                     <h3>Welcome to the Condor Demonlist !</h3>
                     <p>
-                        TO SUBMIT A RECORD : Click on the "Submit Record" button to go on my Discord server and send your clip WITH CLICKS (and cheat indicator if you can) to get it moderated
+                        TO SUBMIT A RECORD :
+Click on the "Submit Record" button to go on my Discord server and send your clip WITH CLICKS (and cheat indicator if you can) to get it moderated
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record

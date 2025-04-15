@@ -107,22 +107,7 @@ Click on the "Submit Record" button to go on my Discord server and send your cli
                         TO SUBMIT A LEVEL : Join my Discord server and go to the "Condor Levels". Rules are in the pinned message
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Have fun ! :D
                     </p>
                 </div>
             </div>

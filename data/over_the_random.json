@@ -1,1 +1,20 @@
+{
+    "id": 117548109,
+    "name": "Over the Random",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/32yPdVbvoQU?si=aGqKOtacHBUzEN40",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

@@ -101,7 +101,7 @@ export default {
                     <h3>Welcome to the Condor Demonlist !</h3>
                     <p>
                         TO SUBMIT A RECORD :
-Click on the "Submit Record" button to go on my Discord server and send your clip WITH CLICKS (and cheat indicator if you can) in the "Condor Records" channel to get it moderated (CBF ALLOWED). You lso gotta hit the end wall to be accepted.
+Click on the "Submit Record" button to go on my Discord server and send your clip WITH CLICKS (and cheat indicator if you can) in the "Condor Records" channel to get it moderated (CBF ALLOWED). You also gotta hit the end wall to be accepted.
                     </p>
                     <p>
                         TO SUBMIT A LEVEL : Join my Discord server and go to the "Condor Levels". Rules are in the pinned message

@@ -8,6 +8,13 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 45,
+            "hz": 69
+       }
         
     ]
 }
